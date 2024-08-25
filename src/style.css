@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+body {
+  font-family: "Outfit", sans-serif;
+  color: #141123;
+}
+.purple-color {
+  background: linear-gradient(180deg, #bdb2fd 0%, #917ff2 100%);
+}
+.pink-color {
+  background: linear-gradient(180deg, #febbc7 0%, #ff8ca1 100%);
+}
+.swiper {
+  width: 556px;
+}
+
+
