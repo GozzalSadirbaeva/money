@@ -12,5 +12,6 @@ body {
 .swiper {
   width: 556px;
 }
-
-
+.swiper-button-prev{
+  content: "none";
+}
